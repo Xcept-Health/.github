@@ -31,9 +31,6 @@ Rejoignez notre communauté pour faire une différence dans la santé mondiale !
 4. **Participez à la discussion** : Suivez-nous sur X pour des mises à jour.
 
 
-## Licence
-
-Tous nos projets sont sous licence MIT ([LICENSE](https://github.com/Except/LICENSE)).
 
 ## Rejoignez la révolution médicale !
 
