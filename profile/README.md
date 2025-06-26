@@ -29,7 +29,7 @@ Nos dépôts GitHub abritent des projets open source alignés sur notre mission,
 - Simulateurs robotiques pour la formation chirurgicale.
 - Frameworks pour l’anonymisation et l’analyse des données médicales.
 
-Consultez nos dépôts : [github.com/Except](https://github.com/Except).
+Consultez nos dépôts : [github.com/Except]([https://github.com/Except](https://github.com/Xcept-Health)).
 
 ## Pourquoi contribuer ?
 
