@@ -15,21 +15,6 @@ Chez Except, nous croyons que l’accès aux soins médicaux de qualité ne devr
 
 Nous nous engageons à respecter les normes éthiques les plus strictes, notamment **GDPR** et **HIPAA**, pour garantir la confidentialité et la sécurité des données médicales.
 
-## Structure de l’organisation
-
-Except est structurée pour favoriser l’innovation collaborative et l’impact global. Nos projets sont organisés en trois piliers principaux :
-1. **Traitement des données médicales** : Outils pour analyser les images médicales et les dossiers électroniques, avec des interfaces simples et des solutions légères.
-2. **Robotique médicale** : Solutions pour la formation chirurgicale et l’assistance robotique, abordables et accessibles.
-3. **Accessibilité et disponibilité des soins** : Technologies portables, multilingues, et adaptées aux régions sous-desservies.
-
-## Nos projets
-
-Nos dépôts GitHub abritent des projets open source alignés sur notre mission, incluant :
-- Bibliothèques d’IA pour le traitement d’images médicales, basées sur TensorFlow.
-- Simulateurs robotiques pour la formation chirurgicale.
-- Frameworks pour l’anonymisation et l’analyse des données médicales.
-
-Consultez nos dépôts : [github.com/Except]([https://github.com/Except](https://github.com/Xcept-Health)).
 
 ## Pourquoi contribuer ?
 
