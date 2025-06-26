@@ -45,12 +45,6 @@ Rejoignez notre communauté pour faire une différence dans la santé mondiale !
 3. **Soumettez une pull request** : Suivez notre guide ([CONTRIBUTING.md](https://github.com/Except/CONTRIBUTING.md)).
 4. **Participez à la discussion** : Suivez-nous sur X pour des mises à jour.
 
-## Contact
-
-- **GitHub** : [Except](https://github.com/Except)
-- **X** : [@ExceptMedTech](https://x.com/ExceptMedTech)
-- **Email** : contact@except.ai
-- **Site web** : [except.ai](https://except.ai)
 
 ## Licence
 
