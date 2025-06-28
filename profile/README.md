@@ -28,7 +28,6 @@ Rejoignez notre communauté pour faire une différence dans la santé mondiale !
 1. **Explorez nos dépôts** : Consultez [github.com/Except](https://github.com/Except).
 2. **Consultez les issues** : Trouvez des tâches ou proposez des idées via GitHub.
 3. **Soumettez une pull request** : Suivez notre guide ([CONTRIBUTING.md](https://github.com/Except/CONTRIBUTING.md)).
-4. **Participez à la discussion** : Suivez-nous sur X pour des mises à jour.
 
 
 
