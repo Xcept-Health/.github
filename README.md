@@ -5,11 +5,11 @@
 
 **Tout commence par une exception**
 
-Inspirée par le concept d’"exception" en Python – où les situations complexes sont gérées avec précision – Except développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
+Inspirée par le concept d’"exception" en Python – où les situations complexes sont gérées avec précision – Xcept développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
 
 ## Notre mission
 
-Chez Except, nous croyons que l’accès aux soins médicaux de qualité ne devrait pas être une exception, mais une norme. Nous utilisons l’IA et la robotique pour :
+Chez Xcept, nous croyons que l’accès aux soins médicaux de qualité ne devrait pas être une exception, mais une norme. Nous utilisons l’IA et la robotique pour :
 - **Démocratiser les soins** : Développer des outils open source permettant aux cliniciens, chercheurs, et communautés médicales d’accéder à des technologies avancées, même dans des environnements à faibles ressources.
 - **Améliorer la disponibilité** : Créer des solutions rapides et légères, déployables sur des appareils à faible puissance, pour atteindre les zones rurales ou sous-équipées.
 - **Gérer les cas complexes** : Utiliser l’IA pour détecter et traiter les anomalies médicales (par exemple, dans les images médicales) et la robotique pour assister les interventions chirurgicales.
@@ -59,6 +59,5 @@ Tous nos projets sont sous licence MIT ([LICENSE](https://github.com/Except/LICE
 
 ## Rejoignez la révolution médicale !
 
-Avec **"Tout commence par une exception"**, nous transformons les anomalies médicales en solutions accessibles. Rejoignez Except pour rendre les soins médicaux universels grâce à l’IA et la robotique !
-
+Avec **"Tout commence par une exception"**, nous transformons les anomalies médicales en solutions accessibles.
 ---
