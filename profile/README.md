@@ -4,7 +4,7 @@
 
 **Tout commence par une exception**
 
-Inspirée par le concept d’"exception" en Python – où les situations complexes sont gérées avec précision – Except développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
+Inspirée par le concept d’"exception" en Python – où les situations complexes sont gérées avec précision. Except développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
 
 ## Notre mission
 
@@ -27,12 +27,6 @@ Rejoignez notre communauté pour faire une différence dans la santé mondiale !
 
 1. **Explorez nos dépôts** : Consultez [github.com/Except](https://github.com/Except).
 2. **Consultez les issues** : Trouvez des tâches ou proposez des idées via GitHub.
-3. **Soumettez une pull request** : Suivez notre guide ([CONTRIBUTING.md](https://github.com/Except/CONTRIBUTING.md)).
-
-
-
-## Rejoignez la révolution médicale !
-
-Avec **"Tout commence par une exception"**, nous transformons les anomalies médicales en solutions accessibles. Rejoignez Except pour rendre les soins médicaux universels grâce à l’IA et la robotique !
+3. **Soumettez une pull request**
 
 ---
