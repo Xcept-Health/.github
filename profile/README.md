@@ -1,6 +1,6 @@
 ![ExceptBanner](https://github.com/user-attachments/assets/9a1d8774-0705-49c0-9ec0-382d07296bbe)
 
-# Except
+# Xcept
 
 **Tout commence par une exception**
 
