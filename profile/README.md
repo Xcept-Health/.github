@@ -4,7 +4,7 @@
 
 **Tout commence par une exception**
 
-Inspirée par le concept d’"exception" en Python – où les situations complexes sont gérées avec précision. Except développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
+Inspirée par le concept d’"exception" en Python où les situations complexes sont gérées avec précision. Except développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
 
 ## Notre mission
 
