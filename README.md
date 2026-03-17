@@ -48,6 +48,4 @@ Rejoignez notre communauté pour faire une différence dans la santé mondiale !
 
 
 ## Tout commence par une Exeption !
-
-Avec **"Tout commence par une exception"**, nous transformons les anomalies médicales en solutions accessibles.
 ---
