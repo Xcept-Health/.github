@@ -46,9 +46,6 @@ Rejoignez notre communauté pour faire une différence dans la santé mondiale !
 3. **Soumettez une pull request** : Suivez notre guide ([CONTRIBUTING.md](https://github.com/Xcept-Health/CONTRIBUTING.md)).
 4. **Participez à la discussion** : Suivez-nous sur X pour des mises à jour.
 
-## Contact
-
-- **GitHub** : [Xcept](https://github.com/Xcept-Health)
 
 ## Tout commence par une Exeption !
 
