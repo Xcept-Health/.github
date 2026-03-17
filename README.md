@@ -1,7 +1,7 @@
-![ExceptBanner](https://github.com/user-attachments/assets/e73081ed-a6f0-4ccb-b0e1-bb45e4fb9f50)
+![XceptBanner](https://github.com/user-attachments/assets/e73081ed-a6f0-4ccb-b0e1-bb45e4fb9f50)
 
 
-# Except
+# Xcept-Health
 
 **Tout commence par une exception**
 
@@ -18,7 +18,7 @@ Nous nous engageons à respecter les normes éthiques les plus strictes, notamme
 
 ## Structure de l’organisation
 
-Except est structurée pour favoriser l’innovation collaborative et l’impact global. Nos projets sont organisés en trois piliers principaux :
+Xcept est structurée pour favoriser l’innovation collaborative et l’impact global. Nos projets sont organisés en trois piliers principaux :
 1. **Traitement des données médicales** : Outils pour analyser les images médicales et les dossiers électroniques, avec des interfaces simples et des solutions légères.
 2. **Robotique médicale** : Solutions pour la formation chirurgicale et l’assistance robotique, abordables et accessibles.
 3. **Accessibilité et disponibilité des soins** : Technologies portables, multilingues, et adaptées aux régions sous-desservies.
@@ -30,34 +30,27 @@ Nos dépôts GitHub abritent des projets open source alignés sur notre mission,
 - Simulateurs robotiques pour la formation chirurgicale.
 - Frameworks pour l’anonymisation et l’analyse des données médicales.
 
-Consultez nos dépôts : [github.com/Except](https://github.com/Except).
+Consultez nos dépôts : [github.com/Xcept-Health]([https://github.com/Except](https://github.com/orgs/Xcept-Health/repositories)).
 
 ## Pourquoi contribuer ?
 
-Rejoignez notre communauté pour faire une différence dans la santé mondiale ! En contribuant à Except, vous pouvez :
+Rejoignez notre communauté pour faire une différence dans la santé mondiale ! En contribuant à Xcept, vous pouvez :
 - Participer à des projets open source qui sauvent des vies.
 - Collaborer avec une communauté mondiale de développeurs, cliniciens, et chercheurs.
 - Développer des compétences en IA, robotique, et MedTech.
 
 ## Comment contribuer
 
-1. **Explorez nos dépôts** : Consultez [github.com/Except](https://github.com/Except).
+1. **Explorez nos dépôts** : Consultez ([https://github.com/Xcept-Health](https://github.com/orgs/Xcept-Health/repositories)).
 2. **Consultez les issues** : Trouvez des tâches ou proposez des idées via GitHub.
-3. **Soumettez une pull request** : Suivez notre guide ([CONTRIBUTING.md](https://github.com/Except/CONTRIBUTING.md)).
+3. **Soumettez une pull request** : Suivez notre guide ([CONTRIBUTING.md](https://github.com/Xcept-Health/CONTRIBUTING.md)).
 4. **Participez à la discussion** : Suivez-nous sur X pour des mises à jour.
 
 ## Contact
 
-- **GitHub** : [Except](https://github.com/Except)
-- **X** : [@ExceptMedTech](https://x.com/ExceptMedTech)
-- **Email** : contact@except.ai
-- **Site web** : [except.ai](https://except.ai)
+- **GitHub** : [Xcept](https://github.com/Xcept-Health)
 
-## Licence
-
-Tous nos projets sont sous licence MIT ([LICENSE](https://github.com/Except/LICENSE)).
-
-## Rejoignez la révolution médicale !
+## Tout commence par une Exeption !
 
 Avec **"Tout commence par une exception"**, nous transformons les anomalies médicales en solutions accessibles.
 ---
