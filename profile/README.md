@@ -1,14 +1,14 @@
-![ExceptBanner](https://github.com/user-attachments/assets/9a1d8774-0705-49c0-9ec0-382d07296bbe)
+![XceptBanner](https://github.com/user-attachments/assets/9a1d8774-0705-49c0-9ec0-382d07296bbe)
 
 # Xcept
 
 **Tout commence par une exception**
 
-Inspirée par le concept d’"exception" en Python où les situations complexes sont gérées avec précision. Except développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
+Inspirée par le concept d’"exception" en Python où les situations complexes sont gérées avec précision. Xcept développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
 
 ## Notre mission
 
-Chez Except, nous croyons que l’accès aux soins médicaux de qualité ne devrait pas être une exception, mais une norme. Nous utilisons l’IA et la robotique pour :
+Chez Xcept, nous croyons que l’accès aux soins médicaux de qualité ne devrait pas être une exception, mais une norme. Nous utilisons l’IA et la robotique pour :
 - **Démocratiser les soins** : Développer des outils open source permettant aux cliniciens, chercheurs, et communautés médicales d’accéder à des technologies avancées, même dans des environnements à faibles ressources.
 - **Améliorer la disponibilité** : Créer des solutions rapides et légères, déployables sur des appareils à faible puissance, pour atteindre les zones rurales ou sous-équipées.
 - **Gérer les cas complexes** : Utiliser l’IA pour détecter et traiter les anomalies médicales (par exemple, dans les images médicales) et la robotique pour assister les interventions chirurgicales.
@@ -18,14 +18,14 @@ Nous nous engageons à respecter les normes éthiques les plus strictes, notamme
 
 ## Pourquoi contribuer ?
 
-Rejoignez notre communauté pour faire une différence dans la santé mondiale ! En contribuant à Except, vous pouvez :
+Rejoignez notre communauté pour faire une différence dans la santé mondiale ! En contribuant à Xcept, vous pouvez :
 - Participer à des projets open source qui sauvent des vies.
 - Collaborer avec une communauté mondiale de développeurs, cliniciens, et chercheurs.
 - Développer des compétences en IA, robotique, et MedTech.
 
 ## Comment contribuer
 
-1. **Explorez nos dépôts** : Consultez [github.com/Except](https://github.com/Except).
+1. **Explorez nos dépôts** : Consultez [github.com/Xcept-Health](https://github.com/Xcept-Health/).
 2. **Consultez les issues** : Trouvez des tâches ou proposez des idées via GitHub.
 3. **Soumettez une pull request**
 
