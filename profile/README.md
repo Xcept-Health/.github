@@ -1,32 +1,21 @@
 ![XceptBanner](https://github.com/user-attachments/assets/9a1d8774-0705-49c0-9ec0-382d07296bbe)
 
-# Xcept
+## Xcept Health
+### Everything starts with an exception
 
-**Tout commence par une exception**
+Inspired by the concept of an `exception` in Python that mechanism which refuses to let a system collapse when faced with the unexpected, which intercepts, analyzes, and acts with precision where everything seemed blocked. Xcept Health was born from that same logic, applied to healthcare.
 
-Inspirée par le concept d’"exception" en Python où les situations complexes sont gérées avec précision. Xcept développe des outils innovants pour rendre les soins médicaux **accessibles** et **disponibles** à tous, partout dans le monde. Notre slogan, **"Tout commence par une exception"**, incarne notre mission : transformer les défis médicaux en opportunités pour sauver des vies.
+### Our mission
 
-## Notre mission
+Access to quality healthcare should not be the exception. We build open source AI and digital health tools designed for resource-limited environments. Our priority is Africa, but our tools are built to be useful wherever needs are great and resources are scarce.
 
-Chez Xcept, nous croyons que l’accès aux soins médicaux de qualité ne devrait pas être une exception, mais une norme. Nous utilisons l’IA et la robotique pour :
-- **Démocratiser les soins** : Développer des outils open source permettant aux cliniciens, chercheurs, et communautés médicales d’accéder à des technologies avancées, même dans des environnements à faibles ressources.
-- **Améliorer la disponibilité** : Créer des solutions rapides et légères, déployables sur des appareils à faible puissance, pour atteindre les zones rurales ou sous-équipées.
-- **Gérer les cas complexes** : Utiliser l’IA pour détecter et traiter les anomalies médicales (par exemple, dans les images médicales) et la robotique pour assister les interventions chirurgicales.
+### What we build
 
-Nous nous engageons à respecter les normes éthiques les plus strictes, notamment **GDPR** et **HIPAA**, pour garantir la confidentialité et la sécurité des données médicales.
+Every Xcept Health project is born from a real need, observed in the field. Our solutions are lightweight, deployable on modest hardware, usable with limited connectivity, and documented to be owned by local communities. __Explore our public repositories and stay tuned, we keep building.__
 
+### Why contribute
 
-## Pourquoi contribuer ?
+Every contribution is an exception raised against health inequality. Join a community of developers, clinicians and researchers building the MedTech of tomorrow.
 
-Rejoignez notre communauté pour faire une différence dans la santé mondiale ! En contribuant à Xcept, vous pouvez :
-- Participer à des projets open source qui sauvent des vies.
-- Collaborer avec une communauté mondiale de développeurs, cliniciens, et chercheurs.
-- Développer des compétences en IA, robotique, et MedTech.
+`raise Solution()`
 
-## Comment contribuer
-
-1. **Explorez nos dépôts** : Consultez [github.com/Xcept-Health](https://github.com/Xcept-Health/).
-2. **Consultez les issues** : Trouvez des tâches ou proposez des idées via GitHub.
-3. **Soumettez une pull request**
-
----
